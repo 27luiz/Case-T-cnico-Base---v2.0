@@ -11,3 +11,5 @@ Apresentação do Case Técnico proposto pela Dadosfera
 Imagem do Fluxo de dados: [Link para Imagem do Fluxo de Dados](https://drive.google.com/file/d/13efbiHrvhTWXwB9jGVIrvSGmfumxGl3G/view?usp=sharing)
 
 Link para vídeo do YouTube: [Vídeo no YouTube](https://youtu.be/phkvA69q8-c)
+
+Link para meu Metabase: [Metabase](https://metabase-treinamentos.dadosfera.ai/collection/405-luizcarlosferreira-032024)
